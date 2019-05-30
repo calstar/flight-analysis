@@ -1,0 +1,3 @@
+[submodule "rocket-simulation"]
+	path = rocket-simulation
+	url = git://github.com/aditya-sengupta/rocket-simulation
